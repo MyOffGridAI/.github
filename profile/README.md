@@ -10,7 +10,7 @@ MyOffGrid AI is a private, offline-first personal AI assistant designed to run e
 
 Most AI assistants send your data to someone else's server. MyOffGrid AI doesn't.
 
-- **100% local inference** — Your AI runs on your hardware.
+- **100% local inference** — Your AI runs on your hardware.  No Telemetry.  Your data remains 100% private
 - **Long-term memory** — The AI extracts facts from every conversation and remembers them permanently. It knows your soil pH, your generator maintenance schedule, your canning recipes — because you told it once.
 - **Knowledge vault** — Upload PDFs, Word docs, spreadsheets, or write directly in the built-in editor. The AI indexes everything and draws from your documents when answering questions.
 - **Privacy fortress** — One toggle cuts all outbound network traffic via iptables. Your device becomes a true air gap.
