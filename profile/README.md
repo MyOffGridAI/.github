@@ -2,7 +2,7 @@
 
 **Your world, remembered.**
 
-MyOffGrid AI is a private, offline-first personal AI assistant designed to run entirely on your own hardware. Every conversation, every memory, every document stays on your device — no cloud required. Pair it with local LLMs running on a Raspberry Pi, Mini-PC, or any Linux appliance, and you get a fully sovereign AI that learns, remembers, and helps manage your off-grid life.
+MyOffGrid AI is a private, offline-first personal AI assistant designed to run entirely on your own hardware. Every conversation, every memory, every document stays on your device — no cloud required and no telemetry EVER! Pair it with local LLMs running on a Raspberry Pi, Mini-PC, or any Linux appliance, and you get a fully sovereign AI that learns, remembers, and helps manage your off-grid life.
 
 ---
 
