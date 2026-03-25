@@ -6,6 +6,10 @@ MyOffGrid AI is a private, offline-first personal AI assistant designed to run e
 
 ---
 
+![Banner](assets/screen1.png)
+
+---
+
 ## Why MyOffGrid AI?
 
 Most AI assistants send your data to someone else's server. MyOffGrid AI doesn't.
