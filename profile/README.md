@@ -31,6 +31,8 @@ A streaming chat interface with real-time token-by-token responses. The AI draws
 ### AI Memory
 Every conversation is mined for facts. The AI extracts and embeds them as long-term memories tagged by importance — Critical, High, Medium, Low. Memories are semantically searchable and automatically injected into future conversations as relevant context. You tell the AI something once; it remembers forever.
 
+![Banner](assets/screen2.png)
+
 ### Knowledge Vault
 Your personal document library that the AI can search and reference. Upload files (PDF, DOCX, XLSX, PPTX, RTF, images with OCR, plain text) or create rich-text documents directly in the built-in Quill editor. Documents are chunked, embedded, and indexed for semantic search. Fetch content from URLs or import web search results directly into your vault.
 
