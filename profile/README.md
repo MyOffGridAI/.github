@@ -59,6 +59,9 @@ Three ways to access knowledge without internet:
 - **Kiwix** — load ZIM files (compressed snapshots of Wikipedia, Stack Overflow, medical references, survival guides) and browse them locally
 - **Project Gutenberg** — search and import from 70,000+ free public domain books
 
+![Banner](assets/screen3.png)
+
+
 ### Proactive Insights
 Every night, the AI analyzes patterns across your conversations, memories, sensors, and inventory to generate actionable insights — resource warnings, seasonal reminders, health observations, and homestead recommendations. Delivered as notifications by morning.
 
